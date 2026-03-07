@@ -77,6 +77,11 @@ You can configure the tool using Environment Variables:
 
 > **Note**: While the tool aims to be login-free, some wallpapers may strictly require a valid Steam account. In such cases, you can set `STEAM_USERNAME` and `STEAM_PASSWORD`.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=0ran/wallpaper-engine-download-web&type=Date)](https://star-history.com/#0ran/wallpaper-engine-download-web&Date)
+
+
 ## Development Statement
 
 This project was constructed with the assistance of artificial intelligence. It is provided "as-is" for educational and personal use.

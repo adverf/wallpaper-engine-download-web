@@ -77,6 +77,11 @@
 
 > **注意**：虽然本工具主打免登录，但部分壁纸可能强制要求拥有 Wallpaper Engine 或登录账号才能下载。遇到此类情况，你可以尝试配置账号密码（风险自负）。
 
+## 星标历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=0ran/wallpaper-engine-download-web&type=Date)](https://star-history.com/#0ran/wallpaper-engine-download-web&Date)
+
+
 ## 开发声明
 
 本项目全程依托人工智能辅助完成构建。发布者未审阅、未编写任何一行代码内容；若与其他项目存在代码雷同，均属巧合。仅供学习交流使用。
