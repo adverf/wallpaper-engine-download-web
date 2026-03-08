@@ -1,4 +1,4 @@
-# Wallpaper Engine 创意工坊下载工具
+<img width="2488" height="1379" alt="SnowShot_2026-03-08_13-18-32" src="https://github.com/user-attachments/assets/6c3fdf2a-7373-411c-af8f-ab3657f47c03" /><img width="2488" height="1379" alt="SnowShot_2026-03-08_13-18-32" src="https://github.com/user-attachments/assets/bf031607-62cb-4ad0-8664-7eee91722b78" /># Wallpaper Engine 创意工坊下载工具
 
 > 免登录下载 Wallpaper Engine 创意工坊壁纸。
 
@@ -39,6 +39,15 @@
   - **场景/程序/网页类壁纸**：下载后自动打包为 `.zip` 压缩包，解压即可使用。
   - **视频类壁纸**：直接提取原始视频文件（.mp4等），下载后可直接播放。
 - **零依赖构建**：仅使用 Node.js 原生模块，无需 `npm install`，开箱即用。
+
+## 截图展示
+
+<img width="1573" height="1142" alt="123123123" src="https://github.com/user-attachments/assets/624f6abe-1fd6-4ffe-afb4-b93a40ead201" />
+<img width="546" height="1223" alt="333" src="https://github.com/user-attachments/assets/397b907a-b7fc-4b3c-b5da-0580b948e342" />
+<img width="546" height="1223" alt="444" src="https://github.com/user-attachments/assets/a3fe9cce-d0d4-4559-8511-1c52d3a9759e" />
+<img width="546" height="1223" alt="222" src="https://github.com/user-attachments/assets/36db3d9b-1074-4b9a-bc73-d405e21d5964" />
+<img width="546" height="1223" alt="111" src="https://github.com/user-attachments/assets/2882fcd9-023f-4952-bf9b-18e624f79e3c" />
+<img width="546" height="1223" alt="555" src="https://github.com/user-attachments/assets/635a22c1-258a-469c-95fb-0cf00185892a" />
 
 ## 技术架构
 
